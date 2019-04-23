@@ -17,7 +17,7 @@ Implementation of Needleman–Wunsch algorithm. Compare sequences (in fasta file
 ### Approximately Execution Time:
 
 - 1K Sequences ~ 1 min 30 secs
-- 5K Sequences ~ 41 mins 15 secs
+- 5K Sequences ~ 40 mins 30 secs
 - 10K Sequences ~ 2 hours 45 mins
 - 15K Sequences ~ 6 hours 15 mins
 
