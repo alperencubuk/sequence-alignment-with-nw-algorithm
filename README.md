@@ -21,7 +21,7 @@ Implementation of Needleman–Wunsch algorithm. Compare sequences (in fasta file
 - 10K Sequences ~ 2 hours 45 mins
 - 15K Sequences ~ 6 hours 15 mins
 
-Tested on **Ubuntu 18.04** with **Intel i7 4710HQ** proccessor.
+Tested on **Ubuntu 18.04** with **Intel i7 4710HQ** processor.
 
 ---
 
